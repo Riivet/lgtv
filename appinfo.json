@@ -1,0 +1,10 @@
+{
+  "id": "com.riivet.app",
+  "version": "0.0.1",
+  "vendor": "Riivet",
+  "type": "web",
+  "main": "index.html",
+  "title": "IMCA.Tv",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
